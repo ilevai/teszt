@@ -7,7 +7,7 @@
             Console.WriteLine("Szia!");
 
             // komment, a fordító figyelmen kívül hagyja
-            // tetszőleges space és enter lehet a kódban
+            // tetszőleges space  és  enter lehet a kódban
             
             /*
              * 
@@ -21,5 +21,5 @@
             // ; sorok végén kell, kivéve, ha blokkot zárunk: } ez után nem kell
             // case sensitive: pl. console nem = a Console-lal
         }
-    }
+    }   
 }

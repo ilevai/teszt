@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "02_receptek": {
+      "commandName": "Project",
+      "hotReloadEnabled": false
+    }
+  }
+}

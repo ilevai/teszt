@@ -1,0 +1,15 @@
+B:\csharp_repo\teszt\alapok\02_receptek\bin\Debug\net6.0\02_receptek.exe
+B:\csharp_repo\teszt\alapok\02_receptek\bin\Debug\net6.0\02_receptek.deps.json
+B:\csharp_repo\teszt\alapok\02_receptek\bin\Debug\net6.0\02_receptek.runtimeconfig.json
+B:\csharp_repo\teszt\alapok\02_receptek\bin\Debug\net6.0\02_receptek.dll
+B:\csharp_repo\teszt\alapok\02_receptek\bin\Debug\net6.0\02_receptek.pdb
+B:\csharp_repo\teszt\alapok\02_receptek\obj\Debug\net6.0\02_receptek.csproj.AssemblyReference.cache
+B:\csharp_repo\teszt\alapok\02_receptek\obj\Debug\net6.0\02_receptek.GeneratedMSBuildEditorConfig.editorconfig
+B:\csharp_repo\teszt\alapok\02_receptek\obj\Debug\net6.0\02_receptek.AssemblyInfoInputs.cache
+B:\csharp_repo\teszt\alapok\02_receptek\obj\Debug\net6.0\02_receptek.AssemblyInfo.cs
+B:\csharp_repo\teszt\alapok\02_receptek\obj\Debug\net6.0\02_receptek.csproj.CoreCompileInputs.cache
+B:\csharp_repo\teszt\alapok\02_receptek\obj\Debug\net6.0\02_receptek.dll
+B:\csharp_repo\teszt\alapok\02_receptek\obj\Debug\net6.0\refint\02_receptek.dll
+B:\csharp_repo\teszt\alapok\02_receptek\obj\Debug\net6.0\02_receptek.pdb
+B:\csharp_repo\teszt\alapok\02_receptek\obj\Debug\net6.0\02_receptek.genruntimeconfig.cache
+B:\csharp_repo\teszt\alapok\02_receptek\obj\Debug\net6.0\ref\02_receptek.dll
