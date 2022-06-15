@@ -1,0 +1,15 @@
+B:\csharp_repo\teszt\alapok\01_HelloVilag\bin\Debug\net6.0\01_HelloVilag.exe
+B:\csharp_repo\teszt\alapok\01_HelloVilag\bin\Debug\net6.0\01_HelloVilag.deps.json
+B:\csharp_repo\teszt\alapok\01_HelloVilag\bin\Debug\net6.0\01_HelloVilag.runtimeconfig.json
+B:\csharp_repo\teszt\alapok\01_HelloVilag\bin\Debug\net6.0\01_HelloVilag.dll
+B:\csharp_repo\teszt\alapok\01_HelloVilag\bin\Debug\net6.0\01_HelloVilag.pdb
+B:\csharp_repo\teszt\alapok\01_HelloVilag\obj\Debug\net6.0\01_HelloVilag.csproj.AssemblyReference.cache
+B:\csharp_repo\teszt\alapok\01_HelloVilag\obj\Debug\net6.0\01_HelloVilag.GeneratedMSBuildEditorConfig.editorconfig
+B:\csharp_repo\teszt\alapok\01_HelloVilag\obj\Debug\net6.0\01_HelloVilag.AssemblyInfoInputs.cache
+B:\csharp_repo\teszt\alapok\01_HelloVilag\obj\Debug\net6.0\01_HelloVilag.AssemblyInfo.cs
+B:\csharp_repo\teszt\alapok\01_HelloVilag\obj\Debug\net6.0\01_HelloVilag.csproj.CoreCompileInputs.cache
+B:\csharp_repo\teszt\alapok\01_HelloVilag\obj\Debug\net6.0\01_HelloVilag.dll
+B:\csharp_repo\teszt\alapok\01_HelloVilag\obj\Debug\net6.0\refint\01_HelloVilag.dll
+B:\csharp_repo\teszt\alapok\01_HelloVilag\obj\Debug\net6.0\01_HelloVilag.pdb
+B:\csharp_repo\teszt\alapok\01_HelloVilag\obj\Debug\net6.0\01_HelloVilag.genruntimeconfig.cache
+B:\csharp_repo\teszt\alapok\01_HelloVilag\obj\Debug\net6.0\ref\01_HelloVilag.dll
