@@ -8,6 +8,7 @@
 
             // komment, a fordító figyelmen kívül hagyja
             // tetszőleges space és enter lehet a kódban
+            
             /*
              * 
              * többsoros
